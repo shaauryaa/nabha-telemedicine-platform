@@ -1,6 +1,8 @@
 # Nabha Telemedicine Platform
 ### Smart India Hackathon 2025 — Top 100 Teams at Bennett University
 
+▶ **[Live demo — full walkthrough (video)](https://youtu.be/t-bTZ82bfmc)**
+
 A full-stack, microservices-based rural healthcare platform built for SIH 2025. Ranked in the **Top 100 teams out of 500+ at Bennett University** for addressing the healthcare gap in underserved rural communities through accessible digital health tools.
 
 ---
