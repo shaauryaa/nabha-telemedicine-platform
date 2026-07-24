@@ -28,20 +28,6 @@ Watch the complete working demonstration on YouTube:
 
 ▶️ **[youtu.be/t-bTZ82bfmc](https://youtu.be/t-bTZ82bfmc)**
 
-The walkthrough covers:
-
-- 🏠 Main healthcare dashboard
-- 💬 Community chat & forum
-- 🤖 AI skin disease detection
-- 📋 Digital health records
-- 💊 Medicine availability tracker
-- ❤️ Blood donation system
-- 👶 Pregnancy & period tracker
-- 📹 Real-time video consultation
-- 🏥 Village health hub
-
----
-
 ## 🚀 Features
 
 | Module | Description | Port |
